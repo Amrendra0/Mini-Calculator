@@ -35,7 +35,7 @@ mini-calculator/
 
 1. **Clone the repository**
    ```bash
-  
+  git clone https://github.com/Amrendra0/Mini-Calculator.git
 
 2. **Open the project**
 Open index.html in any modern web browser.
